@@ -3,13 +3,13 @@ Seserman Andrei, grp 931/2
 
 Login page:
 * Login
-* Register (username, password, email. require confirmation by needing to input code received by email)
+* Register (free or paid user) (username, password, email. require confirmation by needing to input code received by email)
 
 
 Main page:
 * Settings page
 * Post (text and max 1 picture per post) on personal journal (if offline, cache it and submit when online)
-* Display chart of posts per day in the last x days. (x configurable, max is account age in days)
+* Paid user only: Display chart of posts per day in the last x days. (x configurable, max is account age in days)
 * See wall (only first 2-3 lines of text of each post)
 * From wall can select any post to view it complete (all text and the picture if there is one).
 
